@@ -3,5 +3,5 @@
 
 - Born
 - ~1998 School
-- 2022-07-15 Started work at [iManage.com]
-- 2022-05-20 Forked life
+- 07/15/2015~~ Started work at [iManage.com]
+- 05/20/2022 Forked life
